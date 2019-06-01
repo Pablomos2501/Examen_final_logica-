@@ -3,6 +3,7 @@ logica en sistemas
 primer semestre 
 Pablo Otoniel Moscoso Flores
 0907-19-2477
+variante B
 """
 from tkinter import *
 #funcion del primer boton 
